@@ -1,0 +1,15 @@
+[package]
+name = "d1"
+version = "0.1.0"
+authors = ["Felix Kaaman <trundmatu@gmail.com>"]
+
+[dependencies]
+stdsimd = "0.0.3"
+
+[[bin]]
+name = "part1"
+path = "src/part1.rs"
+
+[[bin]]
+name = "part2"
+path = "src/part2.rs"

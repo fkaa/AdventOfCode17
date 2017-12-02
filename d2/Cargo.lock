@@ -1,0 +1,14 @@
+[[package]]
+name = "d1"
+version = "0.1.0"
+dependencies = [
+ "stdsimd 0.0.3 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
+name = "stdsimd"
+version = "0.0.3"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[metadata]
+"checksum stdsimd 0.0.3 (registry+https://github.com/rust-lang/crates.io-index)" = "6a84ef94a4d8e80a963663034812f147a5d830609547be1c27e05a0793fe3be1"
